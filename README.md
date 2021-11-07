@@ -1,1 +1,1 @@
-# python_training_achmea
+# Python Training for Achmea
